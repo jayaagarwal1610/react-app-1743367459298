@@ -1,0 +1,10 @@
+.calculator-keypad {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.keypad-row {
+  display: flex;
+  gap: 10px;
+}
